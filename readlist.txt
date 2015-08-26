@@ -1,0 +1,6 @@
+(1)Anthropometric and human gait identification using skeleton data from kinect sensor
+(2)bio-inspired predictive orientation decomposition of skeleton trajectories for real-time human activity prediction
+(3)DL-GSGC(this is a short-cut)
+(4)human action recognition by representing 3d skeleton as point in a lie group
+(5)robust estimation of 3d human poses from a single image
+(6)structured streaming skeleton a new feature for online human gesture recognition
